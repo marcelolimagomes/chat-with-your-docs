@@ -171,3 +171,8 @@ cython_debug/
 faiss_index
 data/faiss_index
 ./faiss_index
+faiss_index/
+./data/database
+./data/documents
+database
+documents
